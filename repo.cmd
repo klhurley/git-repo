@@ -1,1 +1,1 @@
-@call python %~dp0\repo %*
+@call python "%~dp0\repo" %*
